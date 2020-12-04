@@ -12,3 +12,4 @@ Create a page that displays the current time in selected Region.
   + [Create React App](https://github.com/facebook/create-react-app)
 
 ## Reference
+- [Create analog clock using React](https://medium.com/@guyrashko/how-to-create-an-analog-clock-using-react-2e2e382367c3)

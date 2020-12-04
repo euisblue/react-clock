@@ -1,10 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import Clock from './Clock';
 
 function App() {
   return (
     <div className="App">
-     hello
+      <Clock title="Tokyo" dateDiff={0} />
+      <Clock title="Korea" dateDiff={0} />
+      <Clock title="California" dateDiff={-17} />
+
     </div>
   );
 }
