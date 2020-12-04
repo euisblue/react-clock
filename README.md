@@ -2,12 +2,14 @@
 
 Day 6: Clock - current time
 
+![demo](./clock.gif)
+
 ## Description
 Create a page that displays the current time in selected Region.
 
 ## SPEC
 - HTML 5
-- CSS
+- SASS
 - React
   + [Create React App](https://github.com/facebook/create-react-app)
 
